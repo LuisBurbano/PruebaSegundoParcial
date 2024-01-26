@@ -32,7 +32,6 @@ npm install react react-dom
 npm install -D @vitejs/plugin-react eslint
 npm install bootstrap
 ```
-Edita ``App.jsx`` y otros archivos según tus necesidades.
 
 ### 4. Inicia el Servidor Backend
 ```bash
@@ -46,8 +45,6 @@ El servidor estará disponible en [http://localhost:3001](http://localhost:3001)
 cd frontend
 npm run dev
 ```
-La aplicación estará disponible en http://localhost:3000.
+La aplicación estará disponible en el enlace creado por node.
 
-### 6. Abre tu Navegador
-Ve a [http://localhost:3000](http://localhost:3000) para ver la aplicación 
 
