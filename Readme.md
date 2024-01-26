@@ -13,7 +13,7 @@ Asegúrate de tener instalado Node.js en tu sistema antes de ejecutar la aplicac
 ### 1. Clona el Repositorio
 
 ```bash
-git clone 
+git clone https://github.com/LuisBurbano/PruebaSegundoParcial.git
 
 ```
 ### 2. Configura el Backend
